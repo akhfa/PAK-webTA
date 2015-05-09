@@ -18,6 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	 	 <ul class="nav">
              <li><a href="<?php echo base_url()?>" title="Home">Home</a></li>
              <li><a href="<?php echo base_url() ?>index.php/about">Tentang Kami</a></li>
+             <li><a href="<?php echo base_url() ?>index.php/list">Daftar Paper</a></li>
              <li class="active"><a href="<?php echo base_url() ?>index.php/contact">Kontak</a></li>
              <li><a href="<?php echo base_url() ?>index.php/login">Login</a></li>
       </ul>
