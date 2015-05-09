@@ -16,10 +16,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">
-	        <li class="active"><a href="<?php base_url()?>" title="Home">Home</a></li>
-	  		<li><a href="<?php echo base_url() ?>about.php">About</a></li>
-	  	    <li><a href="<?php echo base_url() ?>staff.html">Staff</a></li>
-	  		<li><a href="<?php echo base_url() ?>contact.html">Contact</a></li>
+	        <li class="active"><a href="<?php echo base_url()?>" title="Home">Home</a></li>
+	  		<li><a href="<?php echo base_url() ?>index.php/about">Tentang Kami</a></li>
+             <li><a href="<?php echo base_url() ?>index.php/contact">Kontak</a></li>
+	  	    <li><a href="<?php echo base_url() ?>index.php/login">Login</a></li>
       </ul>
 	 </div>
 	 <div class="clear"></div>
