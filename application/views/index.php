@@ -106,20 +106,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<a href="details.html">Read More <span>>></span></a>
 	</div>
 	<div class="clear"></div>
-	<div class="menu1">
-		<ul class="list">
-            <li><img src="images/icon_1.png" alt="">
-            	<p><strong>Penatibus parturnt montes</strong>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat Lorem ipsum dolor sitamet conset etuer amet adipinget praesent ....</p>
-            </li>
-        </ul>
-	</div>
-		<div class="menu1">
-		<ul class="list">
-            <li><img src="images/icon_2.png" alt="">
-            	<p><strong>Penatibus parturnt montes</strong>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat Lorem ipsum dolor sitamet conset etuer amet adipinget praesent ....</p>
-            </li>
-         </ul>
-	</div>
+
  </div>
  <div class="sidebar">
   <div class="side_bar">
@@ -129,30 +116,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  	<p class="top"><a href=""><img src="images/art-pic3.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
  	<p class="top"><a href=""><img src="images/art-pic4.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
  </div>
-  <div class="side_bar1">
- 	<h2>Testimonials</h2>
- 	<p class="top">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account</p>
- 	<p class="side_bar1_bg"></p>
-  </div>
  </div>
   </div>
  <div class="clear"></div>
  </div>
 </div>
-<div class="menu2_bg">
-<div class="wrap"> 
-<div class="menu2">
-	<ul>
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Solutions</a></li>
-		<li><a href="#">Support</a></li>
-		<li><a href="#">Solutions</a></li>
-		<li><a href="#">Send mail</a></li>
-		<li><a href="#">Call Now</a></li>
-	</ul>
-	</div>
-</div>
-</div>
+
 <div class="f_bg">
 <div class="wrap">
 <div class="footer">
