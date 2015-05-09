@@ -23,4 +23,8 @@ class Welcome extends CI_Controller {
         $this->load->helper('url');
 		$this->load->view('index');
 	}
+    public function about()
+    {
+        $this->load->view('about');
+    }
 }

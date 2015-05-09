@@ -11,19 +11,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="<?php echo base_url() ?>css/style.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 <div class="h-bg">
 <div class="wrap">
 	<div class="header">
 		<div class="logo">
-		  	 <a href="index.html"><img src="images/logo.png"> </a>
+		  	 <a href="<?php echo base_url() ?>index.html"><img src="images/logo.png"> </a>
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">
 	        <li><a href="index.html" title="Home">Home</a></li>
-	  		<li  class="active"><a href="about.html">About</a></li>
+	  		<li  class="active"><a href="about.php">About</a></li>
 	  	    <li><a href="staff.html">Staff</a></li>
 	  		<li><a href="contact.html">Contact</a></li>
       </ul>
