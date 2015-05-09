@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="wrap">
 <div class="content">
  <div class="main">
- 	<h2>About Us</h2>
+ 	<h2>Tentang Kami</h2>
  	<div class="text">
  		<div class="txt_img1">
  			<a href="<?php echo base_url()?>details.html"><img src="<?php echo base_url()?>images/pic2.jpg"  alt="" /></a> 
@@ -42,24 +42,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="txt_para1">
 		<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give and expound the actual teachings the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? </p>
 	</div>
-	<div class="btn1">
-		<a href="<?php echo base_url()?>details.html">Read More <span>>></span></a>
-	</div>
-	<div class="clear"></div>
-	<div class="menu1">
-		<ul class="list">
-            <li><img src="<?php echo base_url()?>images/icon_1.png" alt="">
-            	<p><strong>Penatibus parturnt montes</strong>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat Lorem ipsum dolor sitamet conset etuer amet adipinget praesent ....</p>
-            </li>
-        </ul>
-	</div>
-		<div class="menu1">
-		<ul class="list">
-            <li><img src="<?php echo base_url()?>images/icon_2.png" alt="">
-            	<p><strong>Penatibus parturnt montes</strong>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat Lorem ipsum dolor sitamet conset etuer amet adipinget praesent ....</p>
-            </li>
-         </ul>
-	</div>
+
  </div>
  <div class="sidebar">
   <div class="side_bar">
@@ -69,11 +52,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  	<p class="top"><a href="<?php echo base_url()?>"><img src="<?php echo base_url()?>images/art-pic3.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
  	<p class="top"><a href="<?php echo base_url()?>"><img src="<?php echo base_url()?>images/art-pic4.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
  </div>
-  <div class="side_bar1">
- 	<h2>Testimonials</h2>
- 	<p class="top">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account</p>
- 	<p class="side_bar1_bg"></p>
-  </div>
  </div>
   </div>
  <div class="clear"></div>
