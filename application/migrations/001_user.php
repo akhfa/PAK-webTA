@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class User_Migration extends CI_Migration{
+class Migration_User extends CI_Migration{
     public function up()
     {
         $this->dbforge->add_field(array(

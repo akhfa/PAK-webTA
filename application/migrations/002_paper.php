@@ -6,7 +6,7 @@
  * Time: 20:15
  */
 
-class Paper_Migration extends CI_Migration{
+class Migration_Paper extends CI_Migration{
     public function up()
     {
         $this->dbforge->add_field(array(
