@@ -69,18 +69,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  			<a href="<?php echo base_url() ?>details.html"><img src="<?php echo base_url() ?>images/pic1.jpg"  alt="" /></a>
  		</div>
 		<div class="txt_para">
-		    <p>Puji dan syukur kami ucapkan atas kehadirat Allah SWT karena berkat dan rahmat-Nya pengerjaan tugas besar mengenai pembuatan web  ini dapat kami selesaikan. Pembuatan tugas besar ini bertujuan untuk memenuhi tugas mata kuliah Pendidikan Anti Korupsi.</p>
+		    <p">Plagiarisme sebagai bagian tindakan korupsi merupakan peruatan yang tercela dan menurunkan
+                moral bangsa , oleh karena itu dibutuhkan akses terhadap system informasi yang gunanya bukan
+                hanya memudahkan system referencing bagi mahasiswa namun juga sebagai bentuk pengawasan terhadap
+                tindakan yang dilakukannya dengan memudahkan researcher-researcher lain untuk melihat apakah sudah
+                pernah dilakukan research yang serupa dan memastikan bahwa tidak ada pihak
+                yang dicurangi .Hal ini sangat penting mengingat Indonesia merupakan Negara yang
+                luas dengan banyak universias yang terletak berjauhan. Oleh karena itu , kelompok
+                kami berinisiatif untuk membuat suatu yang dapat mewadahi hal itu yaitu dengan
+                menciptakan website IDstudent-research.tk . Website ini merupakan website yang
+                sangat mudah di akses via internet dan dapat dikolaborasikan dengan universitas
+                universitas di seluruh indonesia.</p>
 		</div>
-        <div class="txt_para">
-            <p>Puji dan syukur kami ucapkan atas kehadirat Allah SWT karena berkat dan rahmat-Nya pengerjaan tugas besar mengenai pembuatan web  ini dapat kami selesaikan. Pembuatan tugas besar ini bertujuan untuk memenuhi tugas mata kuliah Pendidikan Anti Korupsi.</p>
-        </div>
-        <div class="txt_para">
-            <p>Puji dan syukur kami ucapkan atas kehadirat Allah SWT karena berkat dan rahmat-Nya pengerjaan tugas besar mengenai pembuatan web  ini dapat kami selesaikan. Pembuatan tugas besar ini bertujuan untuk memenuhi tugas mata kuliah Pendidikan Anti Korupsi.</p>
-        </div>
 
 	</div>
      <div class="txt_para1">
-         <p>Puji dan syukur kami ucapkan atas kehadirat Allah SWT karena berkat dan rahmat-Nya pengerjaan tugas besar mengenai pembuatan web  ini dapat kami selesaikan. Pembuatan tugas besar ini bertujuan untuk memenuhi tugas mata kuliah Pendidikan Anti Korupsi.</p>
+         <p>Melalui website ini kami berharap Tindakan Korupsi , yang lebih tepatnya tindakan
+             plagiarism dapat berkurang dan lebih banyaknya penelitian penelitian yang kredible
+             untuk memajukan dunia pendidikan  dan penelitian Indonesia.</p>
      </div>
 
 	<div class="clear"></div>
