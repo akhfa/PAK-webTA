@@ -2,7 +2,7 @@
     <div class="wrap">
         <div class="footer">
             <div class="f_logo">
-                <a href=""><img src="<?php echo base_url() ?>images/logo.png" alt=""></a>
+                <a href=""><img width="400" height="40" src="<?php echo base_url() ?>images/logo.png" alt=""></a>
                 <div class="copy">
                     <p class="w3-link">© All Rights Reserved | Design by&nbsp; <a href="http://w3layouts.com/"> W3Layouts</a></p>
                 </div>
@@ -23,10 +23,11 @@
                     <img src="<?php echo base_url() ?>images/f_icon.png" alt="" />
                 </div>
                 <div class="f_address">
-                    <p>500 Lorem Ipsum Dolor Sit,</p>
-                    <p>22-56-323 Lorem Ipsum Dolor Sit Sit Amet,</p>
-                    <p>Fax: (000) 000 00 00 0</p>
-                    <p>Email: <span>info@mycompany.com</span></p>
+                    <p>Indonesian Student Research</p>
+                    <p>Institute Teknologi Bandung</p>
+                    <p>Jl. Ganesha No.10, Bandung, Jawa Barat 40132</p>
+                    <p>Telepon: (022) 2500935</p>
+                    <p>Email: <span>info@itb.ac.id</span></p>
                 </div>
             </div>
             <div class="clear"></div>
