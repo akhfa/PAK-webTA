@@ -17,9 +17,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="header-right">
                 <ul class="nav">
                     <li><a href="<?php echo base_url()?>" title="Home">Home</a></li>
-                    <li><a href="<?php echo base_url() ?>index.php/about">Tentang Kami</a></li>
+<!--                    <li><a href="--><?php //echo base_url() ?><!--index.php/about">Tentang Kami</a></li>-->
                     <li><a href="<?php echo base_url() ?>index.php/listpaper">Daftar Paper</a></li>
-                    <li><a href="<?php echo base_url() ?>index.php/contact">Kontak</a></li>
+                    <li><a href="<?php echo base_url() ?>index.php/contact">Kontak Kami</a></li>
                     <li class="active"><a href="<?php echo base_url() ?>index.php/login">Login</a></li>
                 </ul>
             </div>
@@ -33,7 +33,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="modal-dialog">
 
                     <div class="panel-heading">
-                        <h3 class="panel-title">Sign In</h3>
+                        <h3 class="panel-title">* Sign In</h3>
                     </div>
                     <div class="panel-body">
                         <form role="form">
@@ -46,6 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </div>
                                 <!-- Change this to a button or input when using this as a form -->
                                 <a href="javascript:;" class="btn btn-sm btn-success">Login</a>
+                                <h5>* Untuk mendapatkan akun, silahkan menuju halaman kontak kami</h5>
                             </fieldset>
                         </form>
                     </div>

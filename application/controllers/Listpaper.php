@@ -11,6 +11,7 @@ class Listpaper extends CI_Controller{
     public function __construct()
     {
         parent::__construct();
+        $this->load->model('paper','',TRUE);
     }
     public function index()
     {

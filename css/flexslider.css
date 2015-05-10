@@ -9,7 +9,10 @@
  * Contributing author: Tyler Smith (@mbmufffin)
  */
 
- 
+.table-nonfluid {
+   width: auto !important;
+}
+
 /* Browser Resets */
 .flex-container a:active,
 .flexslider a:active,

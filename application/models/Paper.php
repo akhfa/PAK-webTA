@@ -20,4 +20,9 @@ class Paper extends CI_Model{
         );
         return $this->db->insert('papers', $data);
     }
+
+    public function getPaper()
+    {
+
+    }
 }
