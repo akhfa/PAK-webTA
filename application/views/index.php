@@ -12,7 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="wrap">
 	<div class="header">
 		<div class="logo">
-		  	 <a href="<?php base_url()?>"><img src="<?php echo base_url() ?>images/logo.png"> </a>
+		  	 <a href="<?php base_url()?>"><img width="400" height="40" src="<?php echo base_url() ?>images/logo.png"> </a>
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">

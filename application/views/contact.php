@@ -12,7 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="wrap">
 	<div class="header">
 		<div class="logo">
-		  	 <a href="<?php echo base_url()?>"><img src="<?php echo base_url()?>images/logo.png"> </a>
+            <a href="<?php base_url()?>"><img width="400" height="40" src="<?php echo base_url() ?>images/logo.png"> </a>
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">
@@ -51,7 +51,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col span_2_of_3">
 				  <div class="contact-form">
 				  	<h3>Kontak Kami</h3>
-					      <form method="post" action="contact-post.html">
+					      <form method="post" action="#">
 					    	<div>
 						    	<span><label>NAMA</label></span>
 						    	<span><input name="userName" type="text" class="textbox"></span>
@@ -69,7 +69,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						    	<span><textarea name="userMsg"> </textarea></span>
 						    </div>
 						   <div>
-						   		<span class="button-wrap"><input type="submit" value="Submit"></span>
+						   		<span class="button-wrap" onclick="alert('Terima kasih sudah menghubungi kami.')"><input type="submit" value="Submit"></span>
 						  </div>
 					    </form>
 				    </div>
