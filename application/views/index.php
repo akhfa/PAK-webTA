@@ -88,11 +88,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  </div>
  <div class="sidebar">
   <div class="side_bar">
- 	<h2>Catogories</h2>
- 	<p class="top"><a href=""><img src="<?php echo base_url() ?>images/art-pic1.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
- 	<p class="top"><a href=""><img src="<?php echo base_url() ?>images/art-pic2.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
- 	<p class="top"><a href=""><img src="<?php echo base_url() ?>images/art-pic3.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
- 	<p class="top"><a href=""><img src="<?php echo base_url() ?>images/art-pic4.jpg" alt="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip consequat.</a></p>
+ 	<h2>Daftar Halaman</h2>
+ 	<p class="top"><a href="<?php echo base_url() ?>index.php/listpaper"><img src="<?php echo base_url() ?>images/art-pic1.jpg" alt="">Daftar Paper<br>Berisi daftar paper yang telah dibuat oleh mahasiswa.</a></p>
+ 	<p class="top"><a href="<?php echo base_url() ?>index.php/contact"><img src="<?php echo base_url() ?>images/art-pic2.jpg" alt="">Kontak Kami<br>Halaman untuk menghubungi kami apabila Anda punya saran.</a></p>
+ 	<p class="top"><a href="<?php echo base_url() ?>index.php/login"><img src="<?php echo base_url() ?>images/art-pic3.jpg" alt="">Login<br>Halaman untuk login ke dalam situs, untuk mengelola situs.</a></p>
  </div>
  </div>
   </div>

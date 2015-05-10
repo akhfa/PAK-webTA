@@ -28,32 +28,45 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
 </div>
 <div class="content_bg">
-    <div class="container">
-        <div class="col-md-12">
-            <div class="modal-dialog">
+    <div class="wrap">
+        <div class="content">
+            <div class="container">
+                <div class="main">
+                    <div class="col-md-12">
+                        <div class="modal-dialog">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">* Sign In</h3>
-                    </div>
-                    <div class="panel-body">
-                        <form role="form">
-                            <fieldset>
-                                <div class="form-group">
-                                    <input class="form-control" placeholder="E-mail" name="email" type="email" autofocus="">
+                                <div class="panel-heading">
+                                    <h2 class="panel-title">* Sign In</h2>
                                 </div>
-                                <div class="form-group">
-                                    <input class="form-control" placeholder="Password" name="password" type="password" value="">
+                                <div class="panel-body">
+                                    <form role="form">
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <input class="form-control" placeholder="E-mail" name="email" type="email" autofocus="">
+                                            </div>
+                                            <div class="form-group">
+                                                <input class="form-control" placeholder="Password" name="password" type="password" value="">
+                                            </div>
+                                            <!-- Change this to a button or input when using this as a form -->
+                                            <a href="javascript:;" class="btn btn-sm btn-success">Login</a>
+                                            <h5>* Untuk mendapatkan akun, silahkan menuju halaman <a href="<?php echo base_url()?>index.php/contact">kontak kami</a></h5>
+                                        </fieldset>
+                                    </form>
                                 </div>
-                                <!-- Change this to a button or input when using this as a form -->
-                                <a href="javascript:;" class="btn btn-sm btn-success">Login</a>
-                                <h5>* Untuk mendapatkan akun, silahkan menuju halaman kontak kami</h5>
-                            </fieldset>
-                        </form>
+                        </div>
                     </div>
-
+                </div>
+                <div class="sidebar">
+                    <div class="side_bar">
+                        <h2>Daftar Halaman</h2>
+                        <p class="top"><a href="<?php echo base_url() ?>index.php/listpaper"><img src="<?php echo base_url() ?>images/art-pic1.jpg" alt="">Daftar Paper<br>Berisi daftar paper yang telah dibuat oleh mahasiswa.</a></p>
+                        <p class="top"><a href="<?php echo base_url() ?>index.php/contact"><img src="<?php echo base_url() ?>images/art-pic2.jpg" alt="">Kontak Kami<br>Halaman untuk menghubungi kami apabila Anda punya saran.</a></p>
+                        <p class="top"><a href="<?php echo base_url() ?>index.php/login"><img src="<?php echo base_url() ?>images/art-pic3.jpg" alt="">Login<br>Halaman untuk login ke dalam situs, untuk mengelola situs.</a></p>
+                    </div>
+                </div>
+                <hr>
             </div>
         </div>
-        <hr>
     </div>
 </div>
 <?php require_once 'footer.php' ?>
