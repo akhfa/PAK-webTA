@@ -1,6 +1,6 @@
 <div class="f_bg">
     <div class="wrap">
-        <div class="footer">
+        <footer class="footer">
             <div class="f_logo">
                 <a href=""><img src="<?php echo base_url() ?>images/logo.png" alt=""></a>
                 <div class="copy">
@@ -30,6 +30,6 @@
                 </div>
             </div>
             <div class="clear"></div>
-        </div>
+        </footer>
     </div>
 </div>

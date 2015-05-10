@@ -7,6 +7,12 @@
     <link href="<?php echo base_url() ?>css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!--slider-->
     <link href="<?php echo base_url() ?>css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap-theme.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap-theme.css.map" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap.css.map" rel="stylesheet" type="text/css" media="all" />
+    <link href="<?php echo base_url() ?>css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
     <script src="<?php echo base_url() ?>js/jquery-1.7.1.min.js" type="text/javascript"></script>
     <script src="<?php echo base_url() ?>js/jquery.flexslider.js" type="text/javascript"></script>
     <script type="text/javascript">
