@@ -77,6 +77,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  <div class="clear"></div>
  </div>
 </div>
-<?php require_once 'header.php' ?>
+<?php require_once 'footer.php' ?>
 </body>
 </html>
